@@ -10,3 +10,7 @@ h2 {
 .render-buttons {
   color: orangered;
 }
+
+.card_footer {
+  font-size: 13px;
+}
